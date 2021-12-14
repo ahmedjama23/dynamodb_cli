@@ -1,0 +1,18 @@
+{
+    "Starships": {
+        "Keys": [
+            {
+                "ShipClass": {"S": "Constellation"},
+                "Registry": {"S": "NCC-1974"}
+            },
+            {
+                "ShipClass": {"S": "Luna"},
+                "Registry": {"S": "NCC-80115"}
+            },
+            {
+                "ShipClass": {"S": "Vesta"},
+                "Registry": {"S": "NCC-82617"}
+            }
+        ]
+    }
+}
